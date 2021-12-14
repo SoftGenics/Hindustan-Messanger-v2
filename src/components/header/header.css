@@ -1,0 +1,53 @@
+.headerdiv {
+    
+    height:15vh;
+    place-items: center;
+    margin: 0;
+}
+.overalldiv{
+    background:  linear-gradient(tomato
+    , white, rgb(8, 226, 8));
+}
+.logoText {
+font-family: 'Times New Roman', Times, serif;
+color: #007bff;
+font-size: 40px;
+font-weight: bolder;
+}
+.NotjustNews{
+color: #007bff;
+}
+.logoSubText::before {
+    content: "THE HINDUSTHAN MESSENGER";
+    animation: animate infinite 3s;
+    padding-left: 10px;
+}
+
+@keyframes animate {
+
+    0% {
+        content: "THE HINDUSTHAN MESSENGER";
+    }
+
+    50% {
+        content: "हिंदुस्तान संदेशवाहक";
+    }
+
+    75% {
+        content: "ହିନ୍ଦୁସ୍ତାନ୍ ମେସେଞ୍ଜର";
+    }
+}
+
+.topListItem{
+    list-style: none;
+    font-weight: bolder;
+}
+.socailMedia{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .logoImage{
+      box-shadow: 2px 1px 3px 2px greenyellow;
+     height: 100px;    }

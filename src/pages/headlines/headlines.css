@@ -1,0 +1,34 @@
+.headlines{
+    width: 20%;
+}
+.divider{
+    color: rgb(79, 79, 182);
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.border{
+    width: 70%;
+    margin-left: 12%;
+    margin-right: 4%;
+    text-align: center;
+    
+}
+.sub-border{
+    width: 70%;
+    margin: 3%;
+    text-align: center;
+}
+.a{
+    text-decoration: underline;
+}
+.stories{
+    width: 40%;
+    text-align: center;
+}
+.IndiaGate{
+    width:35rem;
+}
+.thirdDiv{
+    width:25%;
+}

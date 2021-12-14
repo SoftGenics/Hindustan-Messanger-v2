@@ -1,0 +1,59 @@
+.slideOverall{
+    height: 60vh;
+    background-color: #80ccff;
+    
+}
+.slideleft{
+    border-radius: 8%;
+    border: 5px solid coral;
+    height: 78%;
+    width: 23rem;
+    background-color: white;
+}
+.messageOfTheday{
+    border-radius: 8%;
+    border: 5px solid coral;
+    height: 78%;
+    width: 30rem;
+    background-color: #ffece6;
+    ;
+}
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.Newblink {
+    animation: blink 1s;
+    animation-iteration-count: infinite;
+    width: 6rem;
+    height: 8vh;
+}
+.Quotes{
+    margin: 5% 5%;
+    font-size: larger;
+}
+.messageTitle{
+    background-color:  #ffff66;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bolder;
+}
+.slideright{
+    border-radius: 8%;
+    border: 5px solid coral;
+     height: 78%;
+    width: 23rem;
+    background-color: white;
+}
+.headingSlide{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color:rgb(17, 16, 16);
+    font-size: 2rem;
+}
