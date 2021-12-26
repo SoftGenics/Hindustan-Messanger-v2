@@ -6,7 +6,7 @@ import Fb from "../image/fb.png"
 import Insta  from "../image/insta.jpg"
 import Twitter from "../image/twitter.jpg"
 import Pin from "../image/Pin.jpg"
-import Logo from "../image/logo/logo.jpeg"
+import Logo1 from "../image/logo/logo1.jpg"
 import Audio from "../Audio/audio";
 
 
@@ -17,7 +17,7 @@ const Header = () => {
    <div className="overalldiv">
    <div className="d-flex justify-content-between">
    <div>
-   <img src={Logo} alt="logo" className="logoImage" />
+   <img src={Logo1} alt="logo" className="logoImage" />
    <br />
    <span className="font-weight-bold NotjustNews" >Not just News.. but who is behind it!</span>
    </div>

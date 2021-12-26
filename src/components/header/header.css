@@ -18,7 +18,7 @@ font-weight: bolder;
 color: #007bff;
 }
 .logoSubText::before {
-    content: "THE HINDUSTHAN MESSENGER";
+    content: "SoftGenics India Private Limited";
     animation: animate infinite 3s;
     padding-left: 10px;
 }
@@ -26,15 +26,15 @@ color: #007bff;
 @keyframes animate {
 
     0% {
-        content: "THE HINDUSTHAN MESSENGER";
+        content: "SoftGenics India Private Limited";
     }
 
     50% {
-        content: "हिंदुस्तान संदेशवाहक";
+        content: "SoftGenics India Private Limited";
     }
 
     75% {
-        content: "ହିନ୍ଦୁସ୍ତାନ୍ ମେସେଞ୍ଜର";
+        content: "SoftGenics India Private Limited";
     }
 }
 
