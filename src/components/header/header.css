@@ -26,15 +26,15 @@ color: #007bff;
 @keyframes animate {
 
     0% {
-        content: "SoftGenics India Private Limited";
+        content: "SoftGenics";
     }
 
     50% {
-        content: "SoftGenics India Private Limited";
+        content: "India";
     }
 
     75% {
-        content: "SoftGenics India Private Limited";
+        content: " Private Limited";
     }
 }
 
